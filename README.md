@@ -17,4 +17,4 @@ Main repository for non-neural machine learning class. I will be uploading all o
 
 
 ## Timetable
-![](timetable.PNG)
+![](https://justpaste.it/6p4wh)
