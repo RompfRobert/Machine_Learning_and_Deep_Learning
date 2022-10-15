@@ -1,6 +1,12 @@
 # MIB Non-Neural Machine Learning
 ***
 Main repository for non-neural machine learning class. I will be uploading all of the materials we get into this repository to create a more comprehensive view.
+
+Libraries that you're going to need:
+```
+pip install pandas matplotlib sklearn
+```
+
 ## Link to videos
 | Session | Date       | Summary                                                                             |
 |---------|------------|-------------------------------------------------------------------------------------|
