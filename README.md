@@ -15,9 +15,9 @@ pip install pandas matplotlib sklearn
 | 3       | 28.09.2022  | [Big Data / Databricks](https://www.youtube.com/watch?v=bcNsZh2joi8)                                                               |
 | 4       | 30.09.2022  | [Big Data / Databricks](https://www.youtube.com/watch?v=zKcw12nz5pE)                                                               |
 | 5       | 03.10.2022  | [Classification](https://www.youtube.com/watch?v=4207o7IyCUc)                                                                      |
-| 6       | 05.10.2022  | [NO Clue](https://www.youtube.com/watch?v=d9Pf4t9WK5M)                                                                             |
-| 7       | 07.10.2022  | [NO Clue](https://www.youtube.com/watch?v=RItnh8IhBg8)                                                                             |
-| 8       | 10.10.2022 | [NO Clue](https://www.youtube.com/watch?v=LD0G_tTmZzo)                                                                             |
+| 6       | 05.10.2022  | [Classification](https://www.youtube.com/watch?v=d9Pf4t9WK5M)                                                                             |
+| 7       | 07.10.2022  | [Regression / Overfitting](https://www.youtube.com/watch?v=RItnh8IhBg8)                                                                             |
+| 8       | 10.10.2022 | [Regression / Overfitting](https://www.youtube.com/watch?v=LD0G_tTmZzo)                                                                             |
 | 9       | 12.10.2022 | [Time Series](https://www.youtube.com/watch?v=RuvXhDgo-xM)                                                                         |
 | 10       | 14.10.2022 | [Time Series](https://www.youtube.com/watch?v=O-GNPaHmXqY)                                                                         |
 | 11       | 17.10.2022  | []()                                                                      |
