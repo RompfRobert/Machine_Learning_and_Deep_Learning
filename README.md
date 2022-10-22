@@ -22,13 +22,13 @@ pip install pandas matplotlib sklearn
 | 10      | 14.10.2022 | Friday|[Time Series](https://www.youtube.com/watch?v=O-GNPaHmXqY)                                    |
 | 11      | 17.10.2022  | Monday|[Dimensional Reducation](https://www.youtube.com/watch?v=H6bRYhng6WY)                        |
 | 12      | 19.10.2022  | Wednesday|[Kernel machines / Ensemble learning]()                                                   |
-| 13      | 21.10.2022  | Friday[]()                                                                                          |
-| 14      | 24.10.2022  | Monday|[]()                                                                                         |
-| 15      | 25.10.2022  | Tuesday|[]()                                                                                        |
-| 16      | 26.10.2022  | Wednesday|[]()                                                                                      |
-| 17      | 28.10.2022  | Friday|[]()                                                                                         |
-| 18      | 02.11.2022  | Wednesday|[]()                                                                                      |
-| 19      | 04.11.2022  | Friday|[]()                                                                                         |
+| 13      | 21.10.2022  | Friday[Perceptron]()                                                                                          |
+| 14      | 24.10.2022  | Monday|[Neural Networks, Basic gradient descent]()                                                                                         |
+| 15      | 25.10.2022  | Tuesday|[Gradient descent variant, Activation]()                                                                                        |
+| 16      | 26.10.2022  | Wednesday|[Regularization, hyperparameters]()                                                                                      |
+| 17      | 28.10.2022  | Friday|[Computer Vision, CNN]()                                                                                         |
+| 18      | 02.11.2022  | Wednesday|[RNN, LSTM]()                                                                                      |
+| 19      | 04.11.2022  | Friday|[Seq2seq, Bahdanau, Transformers]()                                                                                         |
 
 ### Other interesting links
 
