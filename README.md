@@ -22,7 +22,7 @@ pip install pandas matplotlib sklearn
 | 10      | 14.10.2022 | Friday|[Time Series](https://www.youtube.com/watch?v=O-GNPaHmXqY)                                    |
 | 11      | 17.10.2022  | Monday|[Dimensional Reducation](https://www.youtube.com/watch?v=H6bRYhng6WY)                        |
 | 12      | 19.10.2022  | Wednesday|[Kernel machines / Ensemble learning]()                                                   |
-| 13      | 21.10.2022  | Friday[Perceptron]()                                                                                          |
+| 13      | 21.10.2022  | Friday|[Perceptron]()                                                                                          |
 | 14      | 24.10.2022  | Monday|[Neural Networks, Basic gradient descent]()                                                                                         |
 | 15      | 25.10.2022  | Tuesday|[Gradient descent variant, Activation]()                                                                                        |
 | 16      | 26.10.2022  | Wednesday|[Regularization, hyperparameters]()                                                                                      |
