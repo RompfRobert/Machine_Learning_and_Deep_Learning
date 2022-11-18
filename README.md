@@ -3,13 +3,13 @@
 Main repository for non-neural machine learning class. I will be uploading all of the materials we get into this repository to create a more comprehensive view.
 
 Libraries that you're going to need:
-```
-pip install pandas matplotlib sklearn
+```zsh
+pip3 install numpy pandas matplotlib sklearn tensorflow cv2-python yfinance
 ```
 
 ## Link to videos
-| Session | Date       | Day of date |Summary |
-|---------|------------|-------------|--------|
+| Session | Date       | Day of date      |Summary |
+|---------|------------|------------------|--------|
 | 1       | 26.09.2022 | Monday|[Theoritical lecture, Clustering and centroids](https://www.youtube.com/watch?v=pubHlnOgNMc)  |
 | 2       | 27.09.2022 | Tuesday|[Practise , scaling fitting kmeans](https://www.youtube.com/watch?v=nseEWZKazq0)             |
 | 3       | 28.09.2022 | Wednesday|[Big Data / Databricks](https://www.youtube.com/watch?v=bcNsZh2joi8)                       |
