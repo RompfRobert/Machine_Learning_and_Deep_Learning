@@ -3,7 +3,7 @@
 Main repository for non-neural machine learning class. I will be uploading all of the materials we get into this repository to create a more comprehensive view.
 
 Libraries that you're going to need:
-```zsh
+```bash
 pip3 install numpy pandas matplotlib sklearn tensorflow cv2-python yfinance
 ```
 
@@ -26,14 +26,14 @@ pip3 install numpy pandas matplotlib sklearn tensorflow cv2-python yfinance
 | 14      | 24.10.2022 | Monday|[Neural Networks, Basic gradient descent](https://www.youtube.com/watch?v=k01K-vwyjNs)                           |
 | 15      | 25.10.2022 | Tuesday|[Gradient descent variant, Activation](https://www.youtube.com/watch?v=EJDxY87q56M)                             |
 | 16      | 26.10.2022 | Wednesday|[Regularization, hyperparameters](https://www.youtube.com/watch?v=umrsECiWuB0)                                |
-| 17      | 28.10.2022 | Friday|[Computer Vision, CNN]()                                              |
-| 18      | 02.11.2022 | Wednesday|[RNN, LSTM]()                                                      |
-| 19      | 04.11.2022 | Friday|[Seq2seq, Bahdanau, Transformers]()                                   |
-| 20      | 07.11.2022 | Monday|[Seq2seq, Bahdanau, Transformers]()                                   |
-| 21      | 08.11.2022 | Tuesday|[Seq2seq, Bahdanau, Transformers]()                                   |
+| 17      | 28.10.2022 | Friday|[Computer Vision, CNN](https://www.youtube.com/watch?v=umrsECiWuB0)                                              |
+| 18      | 02.11.2022 | Wednesday|[RNN, LSTM](https://www.youtube.com/watch?v=fNMbTAR0bzE)                                                      |
+| 19      | 04.11.2022 | Friday|[Seq2seq, Bahdanau, Transformers](https://www.youtube.com/watch?v=jPcMUZnSgX4)                                   |
+| 20      | 07.11.2022 | Monday|[Seq2seq, Bahdanau, Transformers](https://www.youtube.com/watch?v=jOMIuF8ZYds)                                   |
+| 21      | 08.11.2022 | Tuesday|[Computer Vision, CNN](https://www.youtube.com/watch?v=dMjj2Gr0U58)                                   |
 | 22      | 09.11.2022 | Wednesday|[]()                                   |
 | 23      | 10.11.2022 | Thursday|[Representation learning, Transfer learning, Reinforcement learning]()                                   |
-| 24      | 11.11.2022 | Friday|[Representation learning, Transfer learning, Reinforcement learning]()                                   |
+| 24      | 11.11.2022 | Friday|[LSTM]()                                   |
 | 25      | 14.11.2022 | Monday|[Capstone Project Consultation]()                                     |
 
 ### Other interesting links
